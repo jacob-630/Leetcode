@@ -1,0 +1,1 @@
+return Math.pow(x, n);
