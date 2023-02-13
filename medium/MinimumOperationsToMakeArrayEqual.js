@@ -1,0 +1,1 @@
+return Math.floor(Math.pow(n, 2)/4);
