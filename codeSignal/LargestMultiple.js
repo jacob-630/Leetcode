@@ -4,4 +4,4 @@ function solution(divisor, bound) {
         i--;
     }
     return i;
-}
+};
